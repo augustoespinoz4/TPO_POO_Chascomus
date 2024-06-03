@@ -1,0 +1,5 @@
+Electronico;1;Samsung s24;Descripción;800.0;2
+Comida;3;Pizza Napolitana;Nueva descripcion;10.0;03/06/2024;500.0
+Comida;4;Pizza Napolitana;Nueva descripcion;10.0;03/06/2024;500.0
+Electronico;5;electronico2;NUEVA DESCRIPCION;25.0;5
+Electronico;2;asdf;dfas;40.0;2
